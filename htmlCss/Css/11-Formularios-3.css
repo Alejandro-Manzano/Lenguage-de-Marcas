@@ -1,0 +1,24 @@
+.form-1, .form-2 {
+    margin-bottom: 30px;
+}
+
+.tazas {
+    width: 500px;
+}
+
+.display {
+    display: flex;
+}
+
+.arriba {
+    text-align: right;
+}
+
+.fieldset {
+    width: 900px;
+}
+
+.subir-img{
+    width: 15px;
+    height: 15px;
+}

@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+.hr{
+    background-color:  #808080;
+    height: 1px;
+}
+
+.hr-one {
+    width: 400px;
+    background-color:  #808080;
+    height: 1px;
+    margin-left: 0;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.p {
+    margin-bottom: 300px;
+}
+
+#abajo {
+    text-align: right;
+}

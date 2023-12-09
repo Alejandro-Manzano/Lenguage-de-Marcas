@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+.strong {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.p {
+    margin: 0;
+    padding: 0;
+}
+
+.p-div {
+    margin-top: 15px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.left {
+    margin-left: 39px;
+}
+
+.border {
+    width: 500px;
+    text-align: center;
+}

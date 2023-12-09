@@ -1,0 +1,10 @@
+# Ignorar archivos de audio y video
+Multimedia_archivos/*.mp3
+Multimedia_archivos/*.mp4
+Multimedia_archivos/*.ogg
+Multimedia_archivos/*.wav
+Multimedia_archivos/*.mov
+
+# Conservar archivos de imagen jpg y jpeg
+!Multimedia_archivos/*.jpg
+!Multimedia_archivos/*.jpeg

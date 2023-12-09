@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.del {
+    text-decoration: line-through;
+}
+
+.p-abajo {
+    text-align: right;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px double black;
+}
+
+th, td {
+    border: 3px double black;
+}
+
+.arriba {
+    width: 15px;
+    height: 15px;
+}
+
+.tv {
+    width: 300px;
+}
+
+.gafas {
+    width: 120px;
+}
+
+.altavoz {
+    width: 199px;
+}
+
+.mesa {
+    width: 122px;
+}

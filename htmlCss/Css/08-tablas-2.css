@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px double black;
+}
+
+th, td {
+    border: 3px double black;
+    padding: 2px;
+}
+
+.table-margin{
+    margin-bottom: 100px;
+}
+
+main {
+    margin-bottom: 70px;
+}
+
+.subir {
+    text-align: right;
+    margin-right: 15px;
+}
+
+.blanco-p {
+    width: 60px;
+    height: 60px;
+}
+
+.negro-p {
+    width: 40px;
+    height: 60px;
+}
+
+.blanco-g{
+    width: 80px;
+    height: 80px;
+}
+
+.negro-g{
+    width: 50px;
+    height: 80px;
+}
+
+.cara {
+    width: 50px;
+    height: 50px;
+}
+
+.img-subir {
+    width: 15px;
+    height: 15px;
+}

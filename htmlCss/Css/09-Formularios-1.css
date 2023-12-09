@@ -1,0 +1,54 @@
+.header-div{
+    display: flex;
+    align-items: flex-end;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.header-div > h2 {
+    font-size: 25px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.header-div-img{
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-div-one {
+    display: flex;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.div-send {
+    display: flex;
+    flex-direction: column;
+    margin-left: 180px;
+}
+
+.subir {
+    margin-left: 550px;
+}
+
+.hr {
+    margin-left: 0;
+    width: 600px;
+}
+
+.input-icon {
+    width: 40px;
+    height: 40px;
+}

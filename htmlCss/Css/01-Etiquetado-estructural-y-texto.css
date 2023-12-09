@@ -1,0 +1,45 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    background-color: yellow;
+    width: 390px;
+}
+
+.span-main {
+    text-decoration: underline dotted;
+}
+
+h3, .genes {
+    font-weight: bold;
+}
+
+.adn {
+    font-style: italic;
+}
+
+.p-one, .p-two {
+    margin-left: 90px;
+}
+
+.span-main-p {
+    text-decoration: line-through;
+}
+
+.span-main-p-two{
+    text-decoration: underline;
+}
+
+.science {
+    font-style: italic;
+}
+
+.footer-p{
+    display: flex;
+    justify-content: flex-end;
+    font-size: small;
+}
+
+
