@@ -38,7 +38,7 @@
 
             <section class="section-one">
 
-                <img src="Multimedia_archivos/killBill.jpg" alt="Killbill-La venganza">
+                <img src="Multimedia_archivos/killBill.jpg" alt="Killbill">
 
                 <article class="article-one">
 
