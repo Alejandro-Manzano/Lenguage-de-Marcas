@@ -52,7 +52,7 @@
             <form action="mailto:ansufati@fatifati.es" method="post" target="_blank">
 
                 <div class="display">
-                    <img alt="tazas" class="tazas" src="https://static.vecteezy.com/system/resources/previews/008/494/455/original/isolated-pair-of-white-mugs-free-png.png">
+                    <img alt="tazas" class="tazas" src="../htmlCss/Img/taza.webp">
 
                 <fieldset class="fieldset">
 

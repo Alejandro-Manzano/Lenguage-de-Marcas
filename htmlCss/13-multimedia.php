@@ -38,7 +38,7 @@
 
             <section class="section-one">
 
-                <img src="Multimedia_archivos/killBill.jpg" alt="Killbill">
+                <img src="../htmlCss/Img/killBill.jpg" alt="Killbill">
 
                 <article class="article-one">
 
@@ -77,9 +77,7 @@
 
                         <audio controls> <!-- controls sirve para ejecutar los comandos de reproducción -->
                             <!-- Diferentes audios -->
-                            <source src="Multimedia_archivos/kill-bill-ringtone.wav" type="audio/wav">
-                            <source src="Multimedia_archivos/kill-bill-ringtone.mp3" type="audio/mpeg">
-                            <source src="Multimedia_archivos/kill-bill-ringtone.ogg" type="audio/ogg">
+                            <source src="../htmlCss/Img/Multimedia_archivos/kill-bill-ringtone.mp3" type="audio/mpeg">
                         </audio>
 
                     </div>
@@ -93,7 +91,7 @@
                 <h2>Kill Bill Vol Trailer Oficial</h2>
 
                 <video  controls poster="img/camaKill.webp"> <!-- necesito video para reproducir y usar los controles, poster para la portada -->
-                    <source src="Multimedia_archivos/Kill%20Bill%20Volume%201-OT-video.mp4" type="video/mp4">
+                    <source src="../htmlCss/Img/Multimedia_archivos/Kill Bill Volume 1-OT-video.mp4" type="video/mp4">
                 </video>
 
             </section>

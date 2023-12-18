@@ -34,14 +34,14 @@
 	        <main>
 		
                 <div class="webcam-container">
-                    <img class="img" src="img/cam.png" alt="webcam">
+                    <img class="img" src="../htmlCss/Img/Mapa-img/cam.png" alt="webcam">
                     <div class="text-container">
                         <h2 class="strong">WEBCAM VIEWER</h2>
 			            <p>Desplázate sobre el Mapa para conectar con la webcam de la zona en cuestión, las cámaras se abrirán en nuevas<br> pestañas.</p>
                     </div>
                 </div>
                         
-                <img class="img-2" src="../htmlCss/Img/Mapa de Imágenes_files/mapa.png" alt="Descripción de la imagen" usemap="#mapa">
+                <img class="img-2" src="../htmlCss/Img/Mapa-img/mapa.png" alt="Descripción de la imagen" usemap="#mapa">
 
                 <map id="imgmap20231280556" name="mapa">
                     <area shape="rect" alt="Playa de Gijón" title="" coords="342,2,389,46" href="https://www.webcamsdeasturias.com/asturias/centro/gijon/gijon/la-escalerona-playa-de-san-lorenzo-hd/148/" target="_blank" />

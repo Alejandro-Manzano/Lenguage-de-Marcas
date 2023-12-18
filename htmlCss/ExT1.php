@@ -3,6 +3,7 @@
 
     <head>
     
+        <link rel="stylesheet" href="../htmlCss/Css/reset.css">
         <meta charset="utf-8">
         <link rel="icon" type="image/png" href="favicon.ico" sizes="16x16"/>
         <meta name="language" content="es" /> 
@@ -13,14 +14,21 @@
         <meta name="distribution" content="global" />
         <meta name="author" content="Alejandro Manzano" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../htmlCss/Css/14-Torrente-1.css">
-
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Kalnia:wght@600&family=Rubik+Bubbles&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="../htmlCss/Css/ExT1.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+        
     </head>
 
     <body>
 
         <br>
-        <div class="div-nav">
+        <div class="div-nav" id="arriba">
         <?php
             include 'menu.php';
         ?>
@@ -28,17 +36,15 @@
 
         <br>
 
-        <header>
-            <marquee direction="right">              
-                <h1 id="arriba">Torrente el brazo tonto de la ley</h1>
-            </marquee>
+        <header>           
+                <h1 class="animate__animated animate__bounce">Torrente el brazo tonto de la ley</h1>
         </header>
 
         <main>
 
             <section class="section-one">
 
-                <img class="poster-torrente" src="Multimedia_archivos/poster-torrente.jpeg" alt="Poster torrente">
+                <img class="poster-torrente" src="../htmlCss/Img/poster-torrente.jpeg" alt="Poster torrente">
 
                 <article class="article-one">
 
@@ -80,7 +86,7 @@
                         <audio controls> <!-- controls sirve para ejecutar los comandos de reproducción -->
                             <!-- Diferentes audios -->
                             
-                            <source src="Multimedia_archivos/el_fary_apatrullando_la_ciudad.mp3" type="audio/mpeg">
+                            <source src="../htmlCss/Img/Multimedia_archivos/el_fary_apatrullando_la_ciudad.mp3" type="audio/mpeg">
                            
                         </audio>
 
@@ -94,8 +100,8 @@
 
                 <h2>Trailer Torrente 1</h2>
 
-                <video  controls poster="../htmlCss/Multimedia_archivos/torrente-img-trailer.webp"> <!-- necesito video para reproducir y usar los controles, poster para la portada -->
-                    <source src="Multimedia_archivos/trailer-torrente.mov" type="video/mp4">
+                <video  controls poster="../htmlCss/Img/torrente-img-trailer.webp"> <!-- necesito video para reproducir y usar los controles, poster para la portada -->
+                    <source src="../htmlCss/Img/Multimedia_archivos/trailer-torrente.mov" type="video/mp4">
                 </video>
 
             </section>

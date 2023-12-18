@@ -12,7 +12,7 @@
         <meta name="distribution" content="global" />
         <meta name="author" content="Alejandro Manzano" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../htmlCss/Css/05-imágenes-2.css">
+        <link rel="stylesheet" href="../htmlCss/Css/05-imagenes-2.css">
 
         
     </head>
@@ -81,7 +81,7 @@
                 </p>
         
                 <div class="gif-container">
-                    <img src="img/Rotating_earth_(large).gif" width="165" height="130" alt="GIF">
+                    <img src="img/Rotating_earth_(large).gif" alt="GIF">
 
                     <div>
                         <p class="strong strong-p">También es posible la creación de efectos e imágenes animadas con multitud de herramientas online, prueba a crear alguno con algunas de éstas aplicaciones online:</p>
