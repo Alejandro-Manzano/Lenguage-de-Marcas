@@ -6,6 +6,10 @@
     text-decoration: none;
 }
 
+body{
+    background-image: linear-gradient(to right, green , blue);
+}
+
 header {
     padding: 60px;
     display: flex;
@@ -13,8 +17,6 @@ header {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    background-image: linear-gradient(to right, green , blue);
-    border: 5px solid goldenrod;
 }
 
 h1 {
@@ -30,55 +32,10 @@ h1 {
     border-bottom: 1px solid white;
 }
 
-main {
-    background-image: linear-gradient(to left, green , blue);
-    border: 5px solid aquamarine;
-    height: 80%;
-    padding: 80px;
-    gap: 30px;
-    display: flex;
+footer {
+    margin-top: 400px;
+    text-align: right;
 }
 
-.main_section-1{
-    background-color: burlywood;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 15px;
-}
 
-.main-img {
-    border-radius: 90%;
-    object-fit: cover;
-    border: 3px darkmagenta dotted;
-    width: 300px;
-    height: 170px;
-}
 
-.strong {
-    font-weight: bold;
-}
-
-.main-p {
-    margin-top: 13px;
-    background-color: coral;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: blue;
-}
-
-.main-section-2{
-    padding: 10px;
-    background-color: black;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-video {
-    width: 300px;
-    height: 170px;
-}
