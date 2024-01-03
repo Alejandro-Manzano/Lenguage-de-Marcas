@@ -14,8 +14,8 @@
             <meta name="distribution" content="global" />
             <meta name="author" content="Alejandro Manzano" />
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="stylesheet" href="../htmlCss/Css/07-Tablas-1.css">
-            <link rel="stylesheet" href="../htmlCss/Css/reset.css">
+            <link rel="stylesheet" href="../htmlCss/Css/07-tablas-1.css">
+       
 
         </head>
 

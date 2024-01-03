@@ -12,8 +12,7 @@
     <meta name="distribution" content="global" />
     <meta name="author" content="Alejandro Manzano" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="../htmlCss/Css/01-Etiquetado-estructural-y-texto.css">
-    <link rel="stylesheet" href="../htmlCss/Css/reset.css">
+    <link rel="stylesheet" href="../htmlCss/Css/01-etiquetado-estructural-y-texto.css">
 
 </head>
 <body>

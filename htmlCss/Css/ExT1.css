@@ -1,7 +1,9 @@
-
-
 *{
     margin: 0 auto;
+}
+
+body {
+    background-color: cadetblue;
 }
 
 header, main, footer {
@@ -85,7 +87,7 @@ h2 {
 }
 
 .section-two {
-    background-color: #E9E8E8;
+    background-color:aquamarine;
     width: 98%;
     display: flex;
     flex-direction: column;
@@ -159,7 +161,7 @@ form {
 }
 
 .submit {
-    margin-left: 472px;
+    margin-left: 100px;
 }
 
 .hr {
