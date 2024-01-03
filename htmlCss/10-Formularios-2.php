@@ -14,6 +14,7 @@
         <meta name="author" content="Alejandro Manzano" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../htmlCss/Css/10-Formularios-2.css">
+        <link rel="stylesheet" href="../htmlCss/Css/reset.css">
 
     </head>
 

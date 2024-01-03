@@ -12,6 +12,7 @@
         <meta name="author" content="Alejandro Manzano" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../htmlCss/Css/03-enlaces.css">
+		<link rel="stylesheet" href="../htmlCss/Css/reset.css">
   	</head>
 
   	<body>
