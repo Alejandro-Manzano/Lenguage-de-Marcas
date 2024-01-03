@@ -21,7 +21,7 @@
 			<a id="arriba" ></a>
 			<h1>ENLACES</h1><br>
 			<hr class="hr">
-			<p><a href="../htmlCss/02-listas-y-enlaces.php"> << Anterior</a> // <a href="../mainIndex/index.html">Portada</a><p>
+			<p><a href="../htmlCss/02-listas-y-enlaces.php"> << Anterior</a> // <a href="../index.html">Portada</a><p>
 
 			<hr class="hr-one">
 			<br>
