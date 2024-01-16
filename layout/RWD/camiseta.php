@@ -13,11 +13,17 @@
     <!----------->
 
     <style>
-        <?php include '../menucss.css'?>
+        <?php include '../menucss.css';?>
     </style>
 
 </head>
 <body>
+
+    <nav>
+    <?php include '../menucss.php';?>
+    </nav>
+
+    <h1>Camisetas PHP</h1>
     
 </body>
 </html>
