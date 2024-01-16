@@ -1,0 +1,13 @@
+* {
+    font-size: 1.04em;
+    line-height: 1.5em;
+    letter-spacing: normal;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #f9f9f9;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
