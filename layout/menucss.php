@@ -1,7 +1,13 @@
 <div class="topnav" id="myTopnav">
         
-<a href="../../index.php" class="active">Inicio</a>
+<a href="../..index.html" class="active">Inicio</a>
         
+       
+        <a href="../BootStrap/bootstrap.php" class="dropdown">BootStrap</a>
+
+        <a href="../Parallax/parallax.php" class="dropdown">Parallax</a>
+       
+
         <div class="dropdown">
             <button class="dropbtn">Rwd & Awd 
               <i class="fa fa-caret-down"></i>
