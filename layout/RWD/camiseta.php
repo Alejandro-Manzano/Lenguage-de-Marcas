@@ -21,8 +21,6 @@
 </head>
 <body>
 
-
-
     <nav>
     <?php include '../menucss.php';?>
     </nav>
