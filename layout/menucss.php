@@ -1,6 +1,6 @@
 <div class="topnav" id="myTopnav">
         
-<a href="../..index.html" class="active">Inicio</a>
+<a href="../../index.html" class="active">Inicio</a>
         
        
         <a href="../BootStrap/bootstrap.php" class="dropdown">BootStrap</a>

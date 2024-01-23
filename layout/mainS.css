@@ -1,13 +1,22 @@
-* {
-    font-size: 1.04em;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:ital,wght@1,300&display=swap');
+
+
+*{
+    font-size: 1em;
     line-height: 1.5em;
+    font-family:"Roboto" "Open Sans" ;
     letter-spacing: normal;
     margin: 0;
-    font-family: 'Roboto', sans-serif;
-    color: #f9f9f9;
     box-sizing: border-box;
+    
 }
 
-html {
-    scroll-behavior: smooth;
+body{
+    background-color: #8E8E8E;
+    
+}
+
+main{
+    width: 80%;
+    margin: auto;
 }
