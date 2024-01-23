@@ -8,19 +8,21 @@
 }
 
 body {
-    padding: 20px;
+    margin: 30px auto;
+    background-color: gray;
 }
 
 main {
     margin: auto;
     width: 992px;
-    border: 1px solid grey;
+    border: 3px dotted yellow;
     padding: 4px;
     height: auto;
+    background-color: white;
 }
 
 section {
-    border: 1px solid black;
+    border: 1px solid gray;
     height: auto;
     margin: 0 auto;
     height: 99%;
@@ -62,13 +64,57 @@ section {
 
 .two-2 {
     height: 300px;
-    width: 690px;
+    width: 685px;
     border: 1px solid black;
+    padding: 1px;
 }
 
 footer {
    margin-top: 11px;
    height: 50px;
    background-color: gray;
-   border: 1px solid black;
+   border: 1px solid black; 
+   text-align: center;
+}
+
+.mc {
+    width: 30px;
+    height: 30px;
+}
+
+.one {
+    padding: 7px;
+}
+
+.two {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/220px-McDonald%27s_logo.svg.png");
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    margin-left: 15px;
+}
+
+.two-1 > p {
+    font-size: 11px;
+}
+
+footer > p {
+    margin-top: 10px;
+}
+
+.a-3 {
+    text-align: center;
+    padding: 10px;
+}
+
+.title {
+    font-size: 20px;
+    color: greenyellow;
+    margin-left: 600px;
+}
+
+.title:hover {
+    border-bottom: 2px solid greenyellow;
 }
