@@ -17,4 +17,10 @@
 
     </head>
 
+    <body>
+        <main>
+            hola
+        </main>
+    </body>
+
 </html>
