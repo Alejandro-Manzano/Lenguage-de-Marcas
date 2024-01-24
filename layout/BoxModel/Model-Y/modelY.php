@@ -18,9 +18,63 @@
     </head>
 
     <body>
+
+        <a class="title" href="../../RWD/camiseta.php">Layout</a>
+
         <main>
-            hola
+            
+            <section>
+
+                <article class="article-1">
+
+                    <div  class="one">
+                       
+                    </div>
+
+                    <div class="two">
+                        
+                    </div>
+
+                    <div class="three">
+                        
+                    </div>
+
+                </article>
+
+                <article class="article-2">
+
+                    <h1> McDonald's </h1>
+
+                    <div class="article-2-mainDiv">
+                        <div class="two-1">
+                            
+                        </div>
+                        <div class="two-2">
+                     
+                        </div>
+                    </div>
+
+                </article>
+
+                <article>
+                    <h1>hola</h1>
+                    <div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </article>
+
+                <footer>
+
+                    
+
+                </footer>
+
+            </section>
+
         </main>
+
     </body>
 
 </html>
