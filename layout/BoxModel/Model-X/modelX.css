@@ -1,7 +1,7 @@
 *{
     font-size: 1em;
     line-height: 1.5em;
-    font-family:"Roboto" "Open Sans" ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: normal;
     margin: 0;
     box-sizing: border-box;
@@ -9,16 +9,16 @@
 
 body {
     margin: 30px auto;
-    background-color: gray;
+    background-color: #FFBC0E;
 }
 
 main {
     margin: auto;
     width: 992px;
-    border: 3px dotted yellow;
+    border: 3px black;
     padding: 4px;
     height: auto;
-    background-color: white;
+    background-color: #FFFF;
 }
 
 section {
@@ -31,6 +31,16 @@ section {
 
 .article-1 {
     height: 150px;
+}
+
+.mc , .mc-one{
+    float: left;
+}
+
+.mc-one {
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 20px;
 }
 
 .article-1 > div {
@@ -49,6 +59,7 @@ section {
 .article-2-mainDiv {
     overflow: hidden;
     margin-top: 10px;
+    padding: 0px;
 }
 
 .two-1, .two-2 {
@@ -57,14 +68,16 @@ section {
 }
 
 .two-1 {
-    height: 200px;
+    height: 240px;
     border: 1px solid black;
-    width: 250px;
+    width: 24%;
+    margin-left: 10px;
+    padding: 3px;
 }
 
 .two-2 {
     height: 300px;
-    width: 685px;
+    width: 72%;
     border: 1px solid black;
     padding: 1px;
 }
@@ -80,6 +93,7 @@ footer {
 .mc {
     width: 30px;
     height: 30px;
+    margin-left: 30px;
 }
 
 .one {
@@ -110,11 +124,16 @@ footer > p {
 }
 
 .title {
-    font-size: 20px;
-    color: greenyellow;
-    margin-left: 600px;
+    font-size: 35px;
+    color: #FFFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.div-title {
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 .title:hover {
-    border-bottom: 2px solid greenyellow;
+    border-bottom: 2px solid white;
 }

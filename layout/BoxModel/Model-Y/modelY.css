@@ -42,3 +42,32 @@ section {
     height: 40px;
     border: 1px solid black;
 }
+
+.article-2 {
+    margin-top: 38px;
+    border: 1px black dotted;
+    height: 200px;
+}
+
+.article-2-mainDiv {
+    overflow: hidden;
+    margin-left: 15px;
+}
+
+.two-1, .two-2 {
+    float: left;
+    margin-right: 5px;
+}
+
+.two-1 {
+    height: 168px;
+    border: 1px solid black;
+    width: 750px;
+}
+
+.two-2 {
+    height: 158px;
+    width: 180px;
+    border: 1px solid black;
+    padding: 1px;
+}
