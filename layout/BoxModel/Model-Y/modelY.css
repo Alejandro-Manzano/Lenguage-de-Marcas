@@ -56,6 +56,22 @@ section {
     padding: 10px;
 }
 
+.article-3{
+    padding: 5px;
+    border: 1px dotted black;
+    height: 200px;
+    margin-top: 15px;
+}
+
+.container {
+    float: left;
+    border: 1px solid black;
+    width: 31%;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
 .article-2-mainDiv {
     overflow: hidden;
     margin-top: 10px;
@@ -149,4 +165,8 @@ footer > p {
 
 .title:hover {
     border-bottom: 2px solid white;
+}
+
+.main-h4 {
+    margin-left: 14px;
 }
