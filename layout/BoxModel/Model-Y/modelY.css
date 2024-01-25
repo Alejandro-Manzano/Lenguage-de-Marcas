@@ -51,7 +51,7 @@ section {
 
 .article-2 {
     margin-top: 15px;
-    border: 1px solid black;
+    border: 1px dotted black;
     height: 350px;
     padding: 10px;
 }
@@ -67,19 +67,29 @@ section {
     margin-right: 5px;
 }
 
-.two-1 {
-    height: 240px;
+.two-2 {
+    height: 270px;
     border: 1px solid black;
     width: 24%;
     margin-left: 10px;
     padding: 3px;
 }
 
-.two-2 {
+.two-1 {
     height: 300px;
     width: 72%;
     border: 1px solid black;
     padding: 1px;
+}
+
+.two-1 > p {
+    font-size: 12px;
+}
+
+.historia {
+    width: 150px;
+    height: 100px;
+    margin-left: 300px;
 }
 
 footer {
@@ -113,7 +123,7 @@ a {
     margin-left: 15px;
 }
 
-.two-1 > p {
+.two-2 > p {
     font-size: 11px;
 }
 
