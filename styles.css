@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(to right, green , blue); 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 230px;
+  margin-top: 25px;
+}
+
+h1 {
+    color: goldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.html, .js, .wordpress {
+    height: 200px;
+    width: 200px;
+}
+
+.css {
+    height: 200px;
+    width: 150px;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+img:hover {
+    width: 230px;
+    height: 230px;
+    box-shadow: 50% yellowgreen;
+}
+
+.css:hover {
+    height: 210px;
+    width: 170px;
+}
+
+@media screen and (max-width:560px){
+    h1{
+        font-size: 25px;
+        padding: 20px;
+        text-align: center;
+    }
+    body {
+        gap: 100px;
+    }
+}
+
+
+
