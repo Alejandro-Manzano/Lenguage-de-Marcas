@@ -9,7 +9,7 @@
 
 body {
     margin: 30px auto;
-    background-color: grey;
+    padding-bottom: 20px;
 }
 
 main {
@@ -18,8 +18,8 @@ main {
     border: 3px black;
     padding: 4px;
     background-color: #FFFF;
-    margin-top: 170px;
-    height: 1800px;
+    margin-top: 4%;
+    height: 100%;
 }
 
 .operadora-section-1 {
@@ -111,7 +111,7 @@ margin-bottom: 60px;
 
 .operadora-section-4-div {
     float: left;
-    margin-left: 55px;
+    margin-left: 50px;
 }
 
 h4 {
@@ -121,4 +121,46 @@ h4 {
 
 .operadora-section-5 {
     margin-bottom: 90px;
+}
+
+.ooperadora-section-6 {
+    margin-bottom: 70px;
+}
+
+.p-one {
+    margin-top: 450px;
+    text-align: center;
+    text-transform: uppercase;
+    color: gray;
+    font-size: 26px;
+}
+
+.p-two {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.last-section {
+    margin-top: 40px;
+}
+
+.input-one {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.last-section-div {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.input-two {
+    width: 40%;
+}
+
+.input-third {
+    width: 57%;
+    margin-left: 25px;
 }
