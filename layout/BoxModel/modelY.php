@@ -19,9 +19,11 @@
 
     <body>
 
-        <div class="div-title">
-            <a class="title" href="../../RWD/camiseta.php">Layout</a>
-        </div>
+    <header>
+
+<?php include '../menucss.php';?> 
+
+</header>
 
         <main>
             

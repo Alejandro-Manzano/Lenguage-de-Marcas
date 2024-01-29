@@ -38,8 +38,8 @@
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-            <a href="../../layout/BoxModel/Model-X/modelX.php">Modelo X</a>
-            <a href="../../layout/BoxModel/Model-Y/modelY.php">Modelo Y</a>
+            <a href="../../layout/BoxModel/modelX.php">Modelo X</a>
+            <a href="../../layout/BoxModel/modelY.php">Modelo Y</a>
             <a href="../../css/BoxModel/portada-A.php">Deportes</a>
             <a href="../../css/BoxModel/operadora.php">Operadora (Lidertel)</a>
            
