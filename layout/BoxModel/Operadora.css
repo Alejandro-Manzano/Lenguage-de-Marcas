@@ -19,7 +19,7 @@ main {
     padding: 4px;
     background-color: #FFFF;
     margin-top: 170px;
-    height: 1000px;
+    height: 1800px;
 }
 
 .operadora-section-1 {
@@ -73,12 +73,13 @@ span {
     color: red;
 }
 
-.operadora-section-3 {
+.operadora-section-3, .operadora-section-5 {
 padding-left: 50px;
 padding-right: 50px;
+margin-bottom: 60px;
 }
 
-.operadora-section-3 > p {
+.operadora-section-3 > p, .operadora-section-5 > p {
     border: 2px dotted red;
     padding: 6px;
     color: red;
@@ -93,6 +94,31 @@ padding-right: 50px;
     font-size: 30px;
 }
 
+.tenis {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
 
+.operadora-section-4 {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 11px;
+  margin-bottom: 370px;
+}
 
+.operadora-section-4-div {
+    float: left;
+    margin-left: 55px;
+}
 
+h4 {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.operadora-section-5 {
+    margin-bottom: 90px;
+}
