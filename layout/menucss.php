@@ -42,7 +42,7 @@
             <a href="../../layout/BoxModel/Model-Y/modelY.php">Modelo Y</a>
             <a href="../../css/BoxModel/portada-A.php">Deportes</a>
             <a href="../../css/BoxModel/operadora.php">Operadora (Lidertel)</a>
-            <a href="#">Optativa 2</a>
+           
           </div>
         </div> 
         <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
