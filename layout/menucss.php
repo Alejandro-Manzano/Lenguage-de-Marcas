@@ -40,8 +40,8 @@
           <div class="dropdown-content">
             <a href="../../layout/BoxModel/modelX.php">Modelo X</a>
             <a href="../../layout/BoxModel/modelY.php">Modelo Y</a>
-            <a href="../../css/BoxModel/portada-A.php">Deportes</a>
-            <a href="../../css/BoxModel/operadora.php">Operadora (Lidertel)</a>
+            <a href="../../layout/BoxModel/portada-A.php">Deportes</a>
+            <a href="../../layout/BoxModel/Operadora.php">Operadora (Lidertel)</a>
            
           </div>
         </div> 

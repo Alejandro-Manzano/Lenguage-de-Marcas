@@ -15,6 +15,7 @@ body {
 main {
     margin: auto;
     width: 992px;
+    margin-top: 150px;
     border: 3px black;
     padding: 4px;
     height: auto;
