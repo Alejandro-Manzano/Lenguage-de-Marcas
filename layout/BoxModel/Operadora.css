@@ -164,3 +164,27 @@ h4 {
     width: 57%;
     margin-left: 25px;
 }
+
+.last-section-div-one {
+    margin-top: 15px;
+}
+
+.third-div {
+    margin-top: 15px;
+}
+
+.label-two {
+    margin-left: 300px;
+}
+
+button {
+    margin-top: 15px;
+    margin-left: 880px;
+    width: 100px;
+    height: 40px;
+    border: 1px solid red;
+}
+
+footer {
+    margin-top: 15px;
+}

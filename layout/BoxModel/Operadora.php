@@ -132,16 +132,30 @@
             <p class="p-one">Infórmate sin compromiso</p>
             <p class="p-two">¿Lo quieres?</p>
 
-        <section class="last-section">
+        <form>
+            <section class="last-section">
         
-            <p>Dejanos tus datos y nos ponemos en contacto contigo para informarte de todo</p>
-            <input class="input-one" placeholder="Nombre y Apellidos">
-            <div class="last-section-div">
+                <p>Dejanos tus datos y nos ponemos en contacto contigo para informarte de todo</p>
+                <input class="input-one" placeholder="Nombre y Apellidos">
+                <div class="last-section-div-one">
                 <input class="input-two" placeholder="Nº teléfono de contacto">
                 <input class="input-third" placeholder="Correo electrónico">
-            </div>
+                </div>
+                <div class="third-div">
+                <label><input type="checkbox"> He leído y acepto la <a href="#">política de privacidad</a> </label>
+                <label class="label-two"><input type="checkbox"> Autorizo el envío de información</label>
+                </div>
 
-        </section>
+            </section>
+
+            <button>Enviar</button>
+
+        </form>
+
+        <footer>
+            <a href="#">Aviso legal - Política de privacidad</a>
+            <p>2020 Liderteld Island</p>
+        </footer>
 
         </main>
 
