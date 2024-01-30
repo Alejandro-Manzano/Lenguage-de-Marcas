@@ -10,6 +10,7 @@
 body {
     margin: 30px auto;
     background-color: #FFBC0E;
+    height: 100%;
 }
 
 main {
@@ -19,7 +20,7 @@ main {
     padding: 4px;
     height: auto;
     background-color: #FFFF;
-    margin-top: 170px;
+    margin-top: 40px;
 }
 
 section {
