@@ -39,7 +39,7 @@
 
             <section class="operadora-section-2">
 
-                <img src="https://assets.stickpng.com/images/5cb0633d80f2cf201a4c3253.png" alt="iphone" class="iphone">
+                <img src="https://static.vecteezy.com/system/resources/previews/011/047/526/non_2x/smartphone-and-mobile-phone-free-png.png" alt="iphone" class="iphone">
 
                 <p class="operadora-section-2-p">Vente a Vodafone one y <br> consigue la licencia anual <br> de la ftm <br> <span>gratis</span></p>
 
