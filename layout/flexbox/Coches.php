@@ -13,7 +13,7 @@
         <meta name="distribution" content="global" />
         <meta name="author" content="Alejandro Manznao" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- <link rel="stylesheet" href="normalize.css"> -->
+        <link rel="stylesheet" href="normalize.css"> 
         <link rel="stylesheet" href="Coches.css">
 
         <style>
