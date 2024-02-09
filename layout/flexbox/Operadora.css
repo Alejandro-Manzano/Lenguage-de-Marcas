@@ -65,12 +65,26 @@ main{
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
-    margin-top: 70px;
-    margin-bottom: 170px;
 }
 
 span {
     margin-top: 15px;
     font-size: 50px;
     color: red;
+}
+
+.operadora-section-3, .operadora-section-5 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.operadora-section-3 > p, .operadora-section-5 > p {
+    border: 1px dotted red;
+    color: red;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
 }
