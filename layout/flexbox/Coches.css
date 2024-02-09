@@ -1,58 +1,104 @@
 * {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 body {
+    background-image: url("https://i.blogs.es/81640d/porsche-911_sport_classic-2023-1600-06/840_560.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover; /* Hacer que la imagen de fondo cubra todo el cuerpo */
+    background-position: center; 
+    padding: 30px;
+    padding-bottom: 0px;
+}
+
+header{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 20px;
-}
-
-main {
-    width: 992px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.container-one {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-}
-
-.logo {
-    width: 210px;
-    height: 250px;
 }
 
 h1 {
-    font-size: 25px;
+    background-color: #DEDEDE;
 }
 
-.container-two {
+.logo {
+    width: 250px;
+    height: 300px;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 992px;
+    margin-top: 50px;
+    gap: 25px;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
-    gap: 25px;
+    align-items: center;
 }
 
-.container-two > div {
+main > div {
     width: 325px;
-    height: 220px;
     background-color: #DEDEDE;
+    padding: 12px;
     border: 0.5px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.a {
+    text-transform: uppercase;
+    color: white;
+    background-color: #3797DC;
+    border: 0.5px solid black;
+    margin-top: 10px;
+    padding: 7px;
+}  
+
+p {
+    text-transform: uppercase;
+    font-size: 15px;
 }
 
 .car {
     width: 300px;
-    height: 170px;
+    height: 180px;
+}
+
+footer {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 40px;
+    padding: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+.logofooter{
+    width: 105px;
+    height: 130px;
+}
+
+.white {
+    color: white;
+}
+
+.white:hover {
+    border-bottom:white ;
 }
