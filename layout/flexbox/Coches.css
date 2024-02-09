@@ -100,5 +100,12 @@ li {
 }
 
 .white:hover {
-    border-bottom:white ;
+    border-bottom: white;
 }
+
+ul {
+    background-color: black;
+    padding: 10px;
+}
+
+
