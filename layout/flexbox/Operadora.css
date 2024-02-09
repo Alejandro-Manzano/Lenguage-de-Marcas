@@ -115,6 +115,7 @@ span {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 h4 {
@@ -129,4 +130,19 @@ h4 {
     flex-wrap: wrap;
     margin-top: 20px;
     gap: 50px;
+}
+
+.p-one {
+    margin-top: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    color: gray;
+    font-size: 26px;
+}
+
+.p-two {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 23px;
+    font-weight: bold;
 }
