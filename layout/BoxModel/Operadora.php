@@ -135,7 +135,7 @@
         <form>
             <section class="last-section">
         
-                <p>Dejanos tus datos y nos ponemos en contacto contigo para informarte de todo</p>
+                <p class="p-last-section">Dejanos tus datos y nos ponemos en contacto contigo para informarte de todo</p>
                 <input class="input-one" placeholder="Nombre y Apellidos">
                 <div class="last-section-div-one">
                 <input class="input-two" placeholder="Nº teléfono de contacto">

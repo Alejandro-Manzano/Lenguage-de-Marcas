@@ -10,7 +10,10 @@ body {
 }
 
 header {
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 main{
@@ -48,7 +51,7 @@ main{
 }
 
 .iphone {
-    width: 290px;
+    width: 320px;
     height: 300px;
 }
 
@@ -142,7 +145,49 @@ h4 {
 
 .p-two {
     text-align: center;
-    margin-top: 35px;
+    margin-top: 20px;
     font-size: 23px;
     font-weight: bold;
+}
+
+form {
+    margin: 0 auto;
+}
+
+.last-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.p-last-section {
+    font-size: 18px;
+}
+
+.input-one {
+    width: 100%;
+    height: 20px;
+}
+
+.last-section-div-one {
+    width: 100%;
+}
+
+.input-two {
+    width: 45%;
+    height: 20px;
+}
+
+.input-third {
+    width: 50%;
+    height: 20px;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    border: 1px solid red;
 }
