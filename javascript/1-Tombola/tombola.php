@@ -15,48 +15,32 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
     <link rel="stylesheet" href="../js.css">
-    <style>
-        
-    </style>
+    <link rel="stylesheet" href="styles.css">
+    <script src="tombola.js" defer></script>
 </head>
 
 <body>
-    <main class="bgimg-1 animated fadeIn">
-    
-    <nav class="topnav" id="myTopnav">
 
+    <nav class="topnav" id="myTopnav">
         <?php include '../menu.php'; ?>
-      
     </nav>
 
-        <!--A partir de aqui el contenido-->
+    <main class="bgimg-1 animated fadeIn">
 
-        <div>
-            <div class="caption animated zoomInDown">
-                <span class="border">¡Tómbola!</span><br>
-<!--                <span class="border">-->
-                    
-                    <div id="contenido">
-                    
-                    <h1>Contenido de cada script aqui</h1>
-                    
-                    </div>
-                
-<!--                </span>-->
-            </div>
+        <article>
 
-        </div>
+            <h1>¡Bienvenido a LotOnline!</h1>
+            <h2>Pulsa el botón para obtener un número entre el 1 y el 100 y conocer tu premio</h2>
+            <button  class="zoomB mano" name="b" id="b" onClick="premio();">¡Prueba suerte!</button>
+            <div id="numero" name="numero"></div> 
+            <div id="premio" name="premio"></div>
+
+        </article>
+
         <footer>Fuente: <a href="#" class="enlacepie">Dirección URL de la web donde esté el Script</a></footer>
-    </main>
-    <script>
-        function myFunction() {
-            var x = document.getElementById("myTopnav");
-            if (x.className === "topnav") {
-                x.className += " responsive";
-            } else {
-                x.className = "topnav";
-            }
-        }
-    </script>
 
-</body></html>
+    </main>
+    
+</body>
+
+</html>

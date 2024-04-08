@@ -1,0 +1,29 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+}
+
+article {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(25, 25, 25, 0.8);
+    border: 1px solid wheat;
+    width: auto;
+    height: auto;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: chocolate;
+    text-align: center;
+}
