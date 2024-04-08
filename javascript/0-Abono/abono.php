@@ -27,6 +27,7 @@
 
             <?php include '../menu.php'; ?>
       
+            
         </nav>
 
         <h1>*El Script debe recoger el valor escrito en la caja y mostrar en un mensaje o escribir en la página el resultado del tipo de abono que corespondería segun: </h1>
