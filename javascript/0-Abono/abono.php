@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="language" content="es" >
-    <title>| DAM | - JAVASCRIPT</title>
+    <title>Abono transporte</title>
     <meta name="Title" content="| DAM | - JAVASCRIPT" >
     <meta name="description" content="Ejercicicios utilizando tecnologías WEB en el cliente" >
     <meta name="keywords" content="HTML, HTML5, CSS, CSS3, JAVASCRIPT, PHP, SQL, Bases de datos, parallax, WEB, Accesibilidad" >
@@ -14,66 +14,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
     <link rel="stylesheet" href="../js.css">
-    
-    <style>
-
-        body {
-            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-            font-size: 1em;
-            line-height: 3em;
-            color: #069;
-            margin-top: 5px;
-            text-align: center;
-        }
-
-        p {
-            font-size: 1.4em;
-            color: #666;
-            line-height: 1em;
-        }
-
-        .zoom {
-
-            width: 80px;
-            height: 60px;
-            font-size: 40px;
-            text-align: center;
-
-        }
-
-        .zoomB {
-
-            width: 350px;
-            height: 60px;
-            font-size: 40px;
-            text-align: center;
-
-        }
-
-        #textoc {
-            border: 1px solid #333;
-            width: 50%;
-            margin-right: auto;
-            margin-left: auto;
-            margin-top: 20px;
-            padding-top: 10px;
-            padding-bottom: 10px;
-
-        }
-
-        .joven {
-            color: #F00;
-        }
-
-        .normal {
-            color: #1F1F1F;
-        }
-
-        .TerceraEdad {
-            color: #D0E81E;
-        }
-        
-    </style>
+    <link rel="stylesheet" href="abono.css">
+    <script src="abono.js" defer></script>
 
 </head>
 
@@ -102,29 +44,6 @@
         <footer>Fuente: <a href="#" class="enlacepie">Dirección URL de la web donde esté el Script</a></footer>
 
     </main>
-
-    <script type="text/javascript">
-
-        function verabono() {
-            var edad = document.getElementById('cedad').value;
-            var abono;
-            if (edad <= 0) {
-
-                document.getElementById('textoc').innerHTML = '<img src="img/error.png" style="vertical-align:middle;"><h3 style="color:red;display:inline;"> ¡Estas tont@ o qué !, ' + edad + ' no es correcto ¿demasiada Play?</h3>';
-            } else {
-                if (edad <= 25) {
-                    abono = '<span class="joven">Joven</span>';
-                } else
-                if (edad >= 65) {
-                    abono = '<span class="TerceraEdad">Tercera Edad</span>';
-                } else {
-                    abono = '<span class="normal">Normal</span>';
-                }
-                document.getElementById('textoc').innerHTML = "<h3 style='color:green;'>La edad que ha introducido es " + edad + " años.<p /> El abono que le corresponde es " + abono + "</h3>";
-            }
-        }
-
-    </script>
 
 </body>
 </html>
