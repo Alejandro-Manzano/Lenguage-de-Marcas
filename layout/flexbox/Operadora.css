@@ -5,6 +5,20 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+<<<<<<< HEAD
+=======
+body {
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+>>>>>>> 06c347344431139ec6a77cdf87b4568189fadf63
 main{
     display: flex;
     flex-direction: column;
@@ -17,7 +31,10 @@ main{
 }
 
 .operadora-section-1 {
+<<<<<<< HEAD
     margin-top: 50px;
+=======
+>>>>>>> 06c347344431139ec6a77cdf87b4568189fadf63
     display: flex;
     flex-wrap: wrap;
     align-items: center;

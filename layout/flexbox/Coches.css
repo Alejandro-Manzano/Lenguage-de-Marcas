@@ -10,6 +10,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover; /* Hacer que la imagen de fondo cubra todo el cuerpo */
     background-position: center; 
+<<<<<<< HEAD
+=======
+    padding: 30px;
+>>>>>>> 06c347344431139ec6a77cdf87b4568189fadf63
     padding-bottom: 0px;
 }
 

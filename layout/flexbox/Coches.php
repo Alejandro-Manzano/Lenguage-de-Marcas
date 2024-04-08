@@ -22,11 +22,18 @@
 
     </head>
 
+<<<<<<< HEAD
     <?php include '../../layout/menucss.php';?> 
 
     <body>
 
        <header>
+=======
+    <body>
+
+       <header>
+            <?php include '../../layout/menucss.php';?> 
+>>>>>>> 06c347344431139ec6a77cdf87b4568189fadf63
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Porsche_hood_emblem.png/457px-Porsche_hood_emblem.png?20170204060946" alt="porsche-logo" class="logo">
             <h1>Modelos 2023/24</h1>
         </header> 
