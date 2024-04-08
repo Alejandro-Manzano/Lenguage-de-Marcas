@@ -1,4 +1,4 @@
-function verabono() {
+const verabono = () => {
     var edad = document.getElementById('cedad').value;
     var abono;
     if (edad <= 0) {
@@ -16,3 +16,4 @@ function verabono() {
         document.getElementById('textoc').innerHTML = "<h3 style='color:green;'>La edad que ha introducido es " + edad + " años.<p /> El abono que le corresponde es " + abono + "</h3>";
     }
 }
+
