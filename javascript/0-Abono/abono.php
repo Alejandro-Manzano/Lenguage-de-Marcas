@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="language" content="es" >
     <title>Abono transporte</title>
+    <link rel="icon" type="image/png" href="../js.webp" sizes="16x16"/>
     <meta name="Title" content="| DAM | - JAVASCRIPT" >
     <meta name="description" content="Ejercicicios utilizando tecnologías WEB en el cliente" >
     <meta name="keywords" content="HTML, HTML5, CSS, CSS3, JAVASCRIPT, PHP, SQL, Bases de datos, parallax, WEB, Accesibilidad" >
