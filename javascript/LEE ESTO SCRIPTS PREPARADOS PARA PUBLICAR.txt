@@ -1,0 +1,18 @@
+
+LOS SCRIPTS QUE DEBERIAS IMPLEMENTAR EN EL FRAMEWORK PARA MOSTRAR TU TRABAJO SON:
+
+1-Tombola
+
+2-Exploradores
+
+3-Mensajeria
+
+4-Mayus/Minus
+
+5-Chocolate
+
+6-Procesador-de-Textos
+
+7-AJAX-LecturaTxt
+
+8-AJAX-LecturaXML

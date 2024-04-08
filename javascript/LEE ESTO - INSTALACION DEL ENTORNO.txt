@@ -1,0 +1,9 @@
+Copia el contenido de TODA esta carpeta en una que se llame javascript dentro de CP
+
+Tu estructura deberia quedar como
+
+CP
+  |
+  html-css
+  javascript (Aqui pega todo el contenido del Framework facilitado)
+  index.html

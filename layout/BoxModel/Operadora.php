@@ -4,7 +4,7 @@
     <head>
     
         <meta charset="utf-8">
-        <link rel="icon" type="image/png" href="../htmlCss/favicon.ico" sizes="16x16"/>
+        <link rel="icon" type="image/png" href="../../favicon.ico" sizes="16x16"/>
         <meta name="language" content="es" />
         <title>Operadora</title>
         <meta name="Title" content= "DAM, JAVASCRIPT, PHP, HTML, CSS, XAMPP" />
@@ -39,7 +39,7 @@
 
             <section class="operadora-section-2">
 
-                <img src="https://assets.stickpng.com/images/5cb0633d80f2cf201a4c3253.png" alt="iphone" class="iphone">
+                <img src="https://static.vecteezy.com/system/resources/previews/011/047/526/non_2x/smartphone-and-mobile-phone-free-png.png" alt="iphone" class="iphone">
 
                 <p class="operadora-section-2-p">Vente a Vodafone one y <br> consigue la licencia anual <br> de la ftm <br> <span>gratis</span></p>
 
@@ -135,7 +135,7 @@
         <form>
             <section class="last-section">
         
-                <p>Dejanos tus datos y nos ponemos en contacto contigo para informarte de todo</p>
+                <p class="p-last-section">Dejanos tus datos y nos ponemos en contacto contigo para informarte de todo</p>
                 <input class="input-one" placeholder="Nombre y Apellidos">
                 <div class="last-section-div-one">
                 <input class="input-two" placeholder="Nº teléfono de contacto">

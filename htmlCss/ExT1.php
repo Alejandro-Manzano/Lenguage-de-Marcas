@@ -64,7 +64,7 @@
 
                     <div class="div-2">
 
-                        <h3>SINOPSIS</h3>
+                        <i class="bi bi-info-circle-fill"></i><h3>SINOPSIS</h3>
                         <p>
                             Torrente es la personificación de todos los tópicos sobre los policías de antaño. 
                             Es un desastre como hombre y muy desagradable, pues a su inutilidad como policía suma que es homófobo, 

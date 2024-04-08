@@ -4,7 +4,7 @@
     <head>
     
         <meta charset="utf-8">
-        <link rel="icon" type="image/png" href="../htmlCss/favicon.ico" sizes="16x16"/>
+        <link rel="icon" type="image/png" href="../../favicon.ico" sizes="16x16"/>
         <meta name="language" content="es" />
         <title>Model-Y</title>
         <meta name="Title" content= "DAM, JAVASCRIPT, PHP, HTML, CSS, XAMPP" />

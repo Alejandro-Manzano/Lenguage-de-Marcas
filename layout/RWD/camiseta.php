@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8">
-    <link rel="icon" type="image/png" href="/favicon.ico" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="CSS3_logo.svg.png" sizes="16x16"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Layout </title>
     <meta name="title" content="Layout de Alejandro Manzano">
@@ -22,8 +22,6 @@
 </head>
 
 <body>
-
-    <span id="arriba"></span>
   
     <header>
 
@@ -33,64 +31,53 @@
 
     <main>
 
-        <section>
+        <iframe src="https://www.youtube.com/embed/4jImHxgHdMU?si=_c_-xy-h_vkSmb3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-            <article >
+        <h1>latostadora</h1>
 
-                <h1>Esta es la de las camisetas</h1>
+        <h2>Camisetas php</h2>
 
-                <div id="ejemplo">
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit cursus libero placerat eu metus, sagittis volutpat
-                    lobortis parturient ante mauris et vestibulum id tellus faucibus ligula bibendum, phasellus sapien leo fusce
-                    ullamcorper luctus condimentum semper magnis auctor vehicula. Velit ullamcorper aptent netus commodo suscipit, 
-                    facilisi felis phasellus nullam, suspendisse fermentum auctor leo. Vel massa vitae fermentum proin tempus gravida 
-                    himenaeos lacus sed condimentum facilisi aenean velit suscipit magna urna curabitur, facilisis erat eleifend aliquet
-                    sodales maecenas cursus arcu porta quisque praesent sociosqu posuere laoreet felis.
-                    Integer volutpat in hac venenatis facilisi habitant dapibus quis ultricies, aliquet lacinia ullamcorper fames sapien
-                    fermentum vulputate pharetra, convallis viverra montes nunc posuere egestas faucibus sociosqu. Ridiculus massa dis vehicula 
-                    consequat imperdiet augue ac blandit, feugiat ornare orci nunc eget erat sed ullamcorper at, morbi sollicitudin aptent dignissim
-                    dui velit curae. Commodo magna posuere auctor etiam vulputate at eu sociis est sodales, suspendisse interdum velit lectus nec condimentum 
-                    elementum aliquet accumsan dictumst, dis porttitor cursus tellus turpis facilisi non malesuada pretium. Penatibus arcu consequat curabitur 
-                    praesent gravida mi ad tortor ullamcorper rutrum platea scelerisque, dignissim parturient vitae risus non accumsan quis feugiat mollis tempus.
-                    Pharetra est laoreet malesuada neque aliquet cursus, nullam himenaeos vitae aliquam sollicitudin, quisque auctor non sodales orci. Fringilla morbi
-                    odio neque mattis massa ligula leo turpis ridiculus, mollis sollicitudin proin bibendum platea feugiat volutpat rutrum cursus lobortis, 
-                    nam habitant pellentesque himenaeos per enim aliquet quam. Congue iaculis leo tempor vitae nisl viverra eleifend habitasse, velit sem purus ac convallis
-                    class commodo quam, auctor laoreet malesuada nascetur egestas dictum turpis.
-                    Fames commodo justo suspendisse tincidunt ridiculus hendrerit dui hac non, rhoncus ultrices ut convallis iaculis cursus tristique elementum nibh nulla, ad 
-                    luctus duis libero donec imperdiet et montes. Vestibulum diam parturient dictumst nec netus habitant viverra taciti himenaeos in posuere, odio nullam placerat 
-                    dui nulla magna lacus habitasse mi ad. Augue lacus risus aptent parturient consequat sagittis taciti congue hendrerit, iaculis orci convallis faucibus tempus etiam nunc himenaeos sapien, ut purus laoreet mauris ridiculus eget eu dictum. 
-                 </div>
+        <article>
 
-                <div id="ejemplo2">
+            <div class="one">
 
-                    <div class="cajas">
-                        <p>1</p>
-                    </div>
+                <img src="https://srv.latostadora.com/image/personaliza_tu_camiseta--id:5de9f48b-1299-4a99-9cb7-d6ea8179cd13;s:H_A1;b:f1f1f1;h:320;f:f;i:13562313618815135623201709261.jpg">
+                <p>Camiseta 1</p>
+                <button>Más información</button>
 
-                    <div class="cajas">
-                        <p>2</p>
-                    </div>
+            </div> 
+            <div class="two">
 
-                    <div class="cajas">
-                        <p>3</p>
-                    </div>
+                <img src="https://srv.latostadora.com/image/tender_a_infinito--id:6c75b4c8-71c8-4190-b7a6-d7c357a1629e;s:H_A28;b:f1f1f1;h:320;f:f;i:13562318365891356232017092628.jpg">
+                <p>Camiseta 2</p>
+                <button>Más información</button>
+                
+            </div>
+            <div class="three">
 
-                    <div class="cajas">
-                        <p>4</p>
-                    </div>
+                <img src="https://srv.latostadora.com/image/m4nd0--id:09f28f81-9102-4f18-8d9e-298a6a98c1c1;s:H_A1;b:f1f1f1;h:320;f:f;i:1356232619554135623201709261.jpg">
+                <p>Camiseta 3</p>
+                <button>Más información</button>
+                
+            </div>
+            <div class="four">
 
-                </div>
+                <img src="https://srv.latostadora.com/image/si_nombre_no_puede_arreglarlo_estamos_j--id:d27e646c-e23d-453a-8543-e813b8890683;s:H_A1;b:f1f1f1;h:320;f:f;i:13562311223275135623201709261.jpg">
+                <p>Camiseta 4</p>
+                <button>Más información</button>
+                
+            </div>
 
-            </article>
-
-        </section>
-
-        <a href="#arriba" title="Pulsa para ir al comienzo de la página"></a>
-
-        <footer style="color: white;">GM</footer>
+        </article>
 
     </main>
 
+    <footer>
+
+        <img src="https://latiendaonline.es/wp-content/uploads/2020/01/LaTostadora.png">
+        <p>La tostadora</p>
+
+    </footer>
 
 </body>
 

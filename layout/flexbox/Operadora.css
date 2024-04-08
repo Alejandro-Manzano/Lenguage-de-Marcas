@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 992px;
+    gap: 25px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.operadora-section-1 {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 130px;
+}
+
+.lidertel {
+    width: 100px;
+    height: 50px;
+}
+
+.federacion {
+    width: 170px;
+    height: 50px;
+}
+
+.vodafone {
+    width: 100px;
+    height: 60px;
+}
+
+.iphone {
+    width: 320px;
+    height: 300px;
+}
+
+.operadora-section-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.operadora-section-2-p{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+span {
+    margin-top: 15px;
+    font-size: 50px;
+    color: red;
+}
+
+.operadora-section-3, .operadora-section-5 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.operadora-section-3 > p, .operadora-section-5 > p {
+    border: 1px dotted red;
+    color: red;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.black {
+    color: black;
+    font-size: 30px;
+}
+
+.tenis {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.operadora-section-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 50px;
+}
+
+.operadora-section-4-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h4 {
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+.operadora-section-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 50px;
+}
+
+.p-one {
+    margin-top: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    color: gray;
+    font-size: 26px;
+}
+
+.p-two {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+form {
+    margin: 0 auto;
+}
+
+.last-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.p-last-section {
+    font-size: 18px;
+}
+
+.input-one {
+    width: 100%;
+    height: 20px;
+}
+
+.last-section-div-one {
+    width: 100%;
+}
+
+.input-two {
+    width: 45%;
+    height: 20px;
+}
+
+.input-third {
+    width: 50%;
+    height: 20px;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    border: 1px solid red;
+}

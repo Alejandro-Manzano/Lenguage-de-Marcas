@@ -1,0 +1,266 @@
+:root {
+    --primary-bgColor: #131313;
+    --primary-fontColor: #FFF;
+    --bgcolorRed-div: #E2383F;
+    --bgcolorPomegranate-div: #A50044;
+    --bgcolorBlue-div: #1476C4;
+    --bgcolorSkyBlue-div: #55BED9;
+    --bgcolorGreen-div : #03B388;
+    --bgcolorYellow-div : #F5BE00;
+    --bgcolorGrey-div: #F5F5F6;
+    --bgcolorPurple-div:#61539A;
+    --bgccolorOrange: #EA7851;
+}
+
+/* FOR ALL */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: var(--primary-fontColor);
+}
+
+/* HEADER */
+header {
+    height: 17vh;
+    background-color: var(--primary-bgColor);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header > img {
+    height: 13rem;
+    margin-left: 2rem;
+    margin-top: 10px;
+    object-fit: cover;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.7rem;
+    list-style: none;
+    margin-right: 4.5rem;
+}
+
+.main-link {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.main-link:hover {
+    border-bottom: 2px solid var(--primary-fontColor);
+}
+
+/* BODY-DIV */
+main {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-image: url("https://res.cloudinary.com/dul2s17m2/image/upload/v1682347454/cesped_poeemg.jpg");
+}
+
+main > div {
+    width: 13.4rem;
+    height: 21rem;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+main > div > a:hover {
+    transform: scale(1.2);
+}
+
+.red-box {
+    background-color: var(--bgcolorRed-div);
+}
+
+.yellow-box{
+    background-color: var(--bgcolorYellow-div);
+}
+
+.stadium-ceramica {
+    width: 16rem;
+    object-fit: cover;
+}
+
+.yellow-box > h3, .yellow-box > p {
+    color: var(--primary-bgColor);
+}
+
+.pomegranate-box {
+    background-color: var(--bgcolorPomegranate-div);
+}
+
+.blue-box {
+    background-color: #1476C4;
+}
+
+.skyBlue-box {
+    background-color: var(--bgcolorSkyBlue-div);
+}
+
+.skyBlue-box > h3, .skyBlue-box > p {
+    color: var(--primary-bgColor);
+}
+
+.green-box {
+    background-color: var(--bgcolorGreen-div);
+}
+
+.grey-box {
+    background-color: var(--bgcolorGrey-div);
+}
+
+.grey-box > h3, .grey-box > p {
+    color: var(--primary-bgColor);
+}
+
+.stadium-bernabeu {
+    width: 16rem;
+}
+
+.orange-box {
+    background-color: var(--bgccolorOrange);
+}
+
+.orange-box > h3, .orange-box > p {
+    color: var(--primary-bgColor);
+}
+
+.purple-box {
+    background-color: var(--bgcolorPurple-div);
+}
+
+.shield {
+    width: 6rem;
+    height: 6rem;
+    object-fit: cover;
+    padding-top: 4px;
+    border-radius: 50%;
+    border: 0.5px solid black;
+    background-color: var(--bgcolorGrey-div);
+}
+
+.stadium {
+    width: 13rem;
+    height: 7rem;
+    object-fit: cover;
+}
+
+main > div > h3 {
+    margin-bottom: 15px;
+    font-weight: 200;
+}
+
+main > div > p {
+    font-weight: 200;
+}
+
+/* FOOTER */
+footer {
+    height: 13vh;
+    background-color: var(--primary-bgColor);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h4 {
+    color: var(--primary-fontColor);
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 25px;
+}
+
+.icon-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.social-icon {
+    width: 32px;
+    height: 32px;
+}
+
+.social-link:hover {
+    transform: scale(1.4);
+}
+
+/* @media screen  */
+@media screen and (max-width: 900px) {
+   
+    ul {
+        margin-right: 2rem;
+    }
+    ul > li > a{
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+    }
+    ul > li > a {
+        font-weight: 200;
+    }
+    .main-link {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    header > img {
+        height: 9rem;
+        width: 12rem;
+        object-fit: cover;
+        margin-top: 70px;
+        margin-right: 25px;
+    }
+    ul {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 120px;
+        margin-left: 25px;
+    }
+}
+
+ @media screen and (max-width: 375px) {
+    header {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+    ul {
+        display: none;
+    }
+    header > img {
+        margin-bottom: 60px;
+    }
+}  
+
+

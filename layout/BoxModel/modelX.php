@@ -4,7 +4,7 @@
     <head>
     
         <meta charset="utf-8">
-        <link rel="icon" type="image/png" href="../htmlCss/favicon.ico" sizes="16x16"/>
+        <link rel="icon" type="image/png" href="../../favicon.ico" sizes="16x16"/>
         <meta name="language" content="es" />
         <title>Model-X</title>
         <meta name="Title" content= "DAM, JAVASCRIPT, PHP, HTML, CSS, XAMPP" />
@@ -37,6 +37,7 @@
 
                     <div  class="one">
                         <img class="mc" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/2339px-McDonald%27s_Golden_Arches.svg.png" alt="logotipo"><h2 class="mc-one">McDonald's</h2>
+                        <i class="bi bi-award-fill"></i>
                     </div>
 
                     <div class="two"></div>
