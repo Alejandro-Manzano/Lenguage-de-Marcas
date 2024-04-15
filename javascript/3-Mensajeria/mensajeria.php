@@ -6,33 +6,25 @@
     <meta name="language" content="es">
     <title>| DAM | - JAVASCRIPT</title>
     <meta name="Title" content="| DAM | - JAVASCRIPT">
+    <link rel="icon" type="image/png" href="../js.webp" sizes="16x16" />
     <meta name="description" content="Ejercicicios utilizando tecnologías WEB en el cliente">
     <meta name="keywords"
         content="HTML, HTML5, CSS, CSS3, JAVASCRIPT, PHP, SQL, Bases de datos, Parallax, WEB, Accesibilidad">
     <meta name="distribution" content="global">
-    <meta name="author" content="Jordi Adrián Jaramillo Aldaz">
+    <meta name="author" content="Alejandro Manzano">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-    <!--    Animaciones CSS https://daneden.github.io/animate.css/-->
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
-
-
     <link rel="stylesheet" href="../js.css">
-
-    <!--El menu es de aqui: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp-->
-
-    <!--Estilos-->
     <style>
     #contenido {
         max-width: 900px;
     }
 
     #logotipos {
-        max-width: 700px;
-        width: 100%;
-        margin-bottom: 15px;
+        width: 100px;
+        height: 100px;
+        margin-bottom: 5px;
     }
 
     table {
@@ -220,7 +212,7 @@
                 <!--                <span class="border">-->
 
                 <div id="contenido">
-                    <img id="logotipos" src="pedidos.png">
+                    <img id="logotipos" src="https://cdn-icons-png.flaticon.com/512/1554/1554561.png">
                     <div id="mensajeError">
                         <h2>Introduce las cartas y paquetes que quieras enviar</h2>
                     </div>
@@ -263,8 +255,9 @@
                             </tr>
                             <tr>
                                 <td colspan="2" class="margenizdo">
-                                    <a href="https://www.paypal.com/es/home" target="_blank"><img src="boton-paypal.png"
-                                            alt="botón de pago a Paypal" name="boton" id="boton" width="205" height="52"
+                                    <a href="https://www.paypal.com/es/home" target="_blank"><img
+                                            src="https://www.skyhomecr.com/wp-content/uploads/2020/01/boton-paypal-pagar-ahora.jpg"
+                                            alt="botón de pago a Paypal" name="boton" id="boton" width="170" height="52"
                                             title="Al pulsar te redireccionamos a la pasarela de pago en Paypal"></a>
                                 </td>
                             </tr>

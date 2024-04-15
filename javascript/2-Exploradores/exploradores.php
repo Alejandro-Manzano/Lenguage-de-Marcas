@@ -255,9 +255,9 @@
 
                 <div id="contenido">
 
-                    <h1>¿Que navegador utilizas habitualmente (Explorer, Firefox, Opera, explorer)?</h1>
+                    <h2>¿Que navegador utilizas habitualmente (Explorer, Firefox, Opera, explorer)?</h2>
                     <p>Escribe tu opción en la caja inferior para obtener su logotipo</p>
-                    <h1>Navegador</h1>
+                    <h2>Navegador</h2>
 
                     <div id="contenedor">
                         <form id="cajita">

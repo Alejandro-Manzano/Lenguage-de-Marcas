@@ -6,24 +6,16 @@
     <meta name="language" content="es">
     <title>| DAM | - JAVASCRIPT</title>
     <meta name="Title" content="| DAM | - JAVASCRIPT">
+    <link rel="icon" type="image/png" href="../js.webp" sizes="16x16" />
     <meta name="description" content="Ejercicicios utilizando tecnologías WEB en el cliente">
     <meta name="keywords"
         content="HTML, HTML5, CSS, CSS3, JAVASCRIPT, PHP, SQL, Bases de datos, Parallax, WEB, Accesibilidad">
     <meta name="distribution" content="global">
-    <meta name="author" content="Jordi Adrián Jaramillo Aldaz">
+    <meta name="author" content="Alejandro Manzano">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-    <!--    Animaciones CSS https://daneden.github.io/animate.css/-->
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
-
-
     <link rel="stylesheet" href="../js.css">
-
-    <!--El menu es de aqui: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp-->
-
-    <!--Estilos-->
     <style>
     #contenido {
         font-family: 'Segoe UI';
@@ -85,34 +77,39 @@
             case 1:
                 //alert ('segundo choco');
                 var calorias = 560;
-                resultado = '<img src="negro_amargo.jpg"> ';
+                resultado =
+                    '<img src="https://www.chocolatesdemendaro.com/wp-content/uploads/2021/06/tabletanegroamargo.jpg"> ';
                 //alert (calorias);
                 break;
 
             case 2:
                 //alert ('tercer choco');
                 var calorias = 520;
-                resultado = '<img src="chocolate_taza.jpg"> ';
+                resultado =
+                    '<img src="https://realacademiadegastronomia.com/wp-content/uploads/2021/05/Chocolate-a-la-taza-BAJA.jpg"> ';
                 //alert (calorias);
                 break;
 
             case 3:
                 //alert ('cuarto choco');
                 var calorias = 540;
-                resultado = '<img src="chocolate_leche.jpg"> ';
+                resultado =
+                    '<img src="https://chocolatestorras.com/wp-content/uploads/2022/08/quien-invento-el-chocolate-con-leche.jpg"> ';
                 //alert (calorias);
                 break;
 
             case 4:
                 //alert ('quinto choco');
                 var calorias = 570;
-                resultado = '<img src="chocolate_blanco.jpg"> ';
+                resultado =
+                    '<img src="https://saboresdesalamanca.es/wp-content/uploads/2021/05/tableta-chocolate-blanco.jpg"> ';
                 //alert (calorias);
                 break;
             case 5:
                 //alert ('quinto choco');
                 var calorias = 70;
-                resultado = '<img src="chocolate_light.jpg"> ';
+                resultado =
+                    '<img src="https://www.foodretail.es/2015/10/07/food/Nueva-tabletas-Light-Chocolates-Valor_933216679_56842_660x372.jpg"> ';
                 //alert (calorias);
                 break;
 
@@ -223,19 +220,6 @@
 
             <a href="../parallax/parallax.php">Parallax</a>
             <a href="../jquery/jquery.php">JQuery</a>
-            <!--
-<div class="dropdown">
-                <button class="dropbtn">Juegos
-                    <i class="fa fa-caret-down"></i>
-                </button>
-                <div class="dropdown-content">
-                    <a href="game-1.html">Game - I</a>
-                    <a href="game-2.html">Game - II</a>
-                    
-                </div>
-            </div>
--->
-
             <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 
         </nav>
