@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="language" content="es">
-    <title>| DAM | - JAVASCRIPT</title>
+    <title>Tombola</title>
     <link rel="icon" type="image/png" href="../js.webp" sizes="16x16" />
     <meta name="Title" content="| DAM | - JAVASCRIPT">
     <meta name="description" content="Ejercicicios utilizando tecnologías WEB en el cliente">

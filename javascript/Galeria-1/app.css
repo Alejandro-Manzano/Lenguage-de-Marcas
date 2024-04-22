@@ -1,0 +1,33 @@
+
+#galeria{ width: 400px;}
+
+nav ul{ list-style:none; padding-left: 0; 
+ display:flex;
+}
+
+nav ul li a img{
+ width: 100px;
+ opacity:50%;
+ transition:0.3s;
+ filter:grayscale(90%);
+
+ 
+ &:hover{ opacity:70%;  margin-top:-5px;  filter:grayscale(0%);
+  box-shadow: 0 4px 8px rgba(0,0,0,.3)
+}
+ &:active{transform:scale(0.8)}
+ 
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+h1 {
+    background-color: white;
+    color: black;
+}
