@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brawlstars>
+    <personaje>
+        <nombre>Shelly</nombre>
+        <tipo>Luchador</tipo>
+        <superr>Barrage</superr>
+        <gadget>Clay Pigeons</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Nita</nombre>
+        <tipo>Luchador</tipo>
+        <superr>Big Baby Bear</superr>
+        <gadget>Bear Paws</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Colt</nombre>
+        <tipo>Tirador</tipo>
+        <superr>Super Bullet</superr>
+        <gadget>Speedloader</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Bull</nombre>
+        <tipo>Combatiente</tipo>
+        <superr>Charge</superr>
+        <gadget>T-Bone Injector</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Jessie</nombre>
+        <tipo>Constructor</tipo>
+        <superr>Scrappy!</superr>
+        <gadget>Spark Plug</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Brock</nombre>
+        <tipo>Tirador</tipo>
+        <superr>Rocket Rain</superr>
+        <gadget>Rocket Laces</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Dynamike</nombre>
+        <tipo>Tirador</tipo>
+        <superr>Big Barrel o'Mine</superr>
+        <gadget>Fidget Spinner</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Bo</nombre>
+        <tipo>Tirador</tipo>
+        <superr>Circling Eagle</superr>
+        <gadget>Super Totem</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Tick</nombre>
+        <tipo>Artilugio</tipo>
+        <superr>Headfirst</superr>
+        <gadget>Backup Mine</gadget>
+    </personaje>
+    <personaje>
+        <nombre>El Primo</nombre>
+        <tipo>Tanque</tipo>
+        <superr>El Fuego</superr>
+        <gadget>Suplex Supplement</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Rosa</nombre>
+        <tipo>Tanque</tipo>
+        <superr>Plant Life</superr>
+        <gadget>Grow Light</gadget>
+    </personaje>
+    <personaje>
+        <nombre>Rico</nombre>
+        <tipo>Tirador</tipo>
+        <superr>Robo Retreat</superr>
+        <gadget>Multi-Ball Launcher</gadget>
+    </personaje>
+</brawlstars>
