@@ -11,7 +11,7 @@
     <meta name="keywords"
         content="HTML, HTML5, CSS, CSS3, JAVASCRIPT, PHP, SQL, Bases de datos, Parallax, WEB, Accesibilidad">
     <meta name="distribution" content="global">
-    <meta name="author" content="Jordi Adrián Jaramillo Aldaz">
+    <meta name="author" content="Alejandro Manzano">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
