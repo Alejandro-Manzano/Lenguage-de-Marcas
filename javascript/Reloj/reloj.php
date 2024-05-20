@@ -93,6 +93,7 @@
         </nav>
 
         <div class="reloj">
+            <h5>Reloj</h5>
             <p class="tiempo"></p>
         </div>
         <script src="script.js"></script>
