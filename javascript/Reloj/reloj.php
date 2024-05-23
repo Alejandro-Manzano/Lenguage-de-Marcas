@@ -25,7 +25,7 @@
 <body>
     <main class="bgimg-1 animated fadeIn">
         <nav class="topnav" id="myTopnav">
-            <b><a href="../index.html">GLOBAL</a></b>
+            <b><a href="../../index.html">GLOBAL</a></b>
             <a href="../index.html">Inicio</a>
             <div class="dropdown">
 
@@ -97,6 +97,9 @@
             <p class="tiempo"></p>
         </div>
         <script src="script.js"></script>
+        <footer>Fuente: <a href="https://platzi.com/tutoriales/3271-javascript-practico/24768-crear-un-reloj-con-js/"
+                class="enlacepie">Dirección URL de la web donde esté el Script</a></footer>
+
 
 </body>
 

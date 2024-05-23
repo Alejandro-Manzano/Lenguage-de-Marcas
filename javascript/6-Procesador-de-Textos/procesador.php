@@ -312,7 +312,8 @@
     <div id="contTextarea">
         <textarea id="texto" placeholder="Escribe tu texto aqui..." autofocus></textarea>
     </div>
-    <footer>Fuente: <a href="https://javascript.solired.es/047%20-%20PROPUESTOS/24-Calcula-Calorias-Chocolate.html"
+    <footer>Fuente: <a
+            href="https://javascript.solired.es/035%20-%20Formato%20Texto%20Controles%20de%20formulario%20-%20String.html"
             class="enlacepie">Dirección URL de la web donde esté el Script</a></footer>
 </body>
 

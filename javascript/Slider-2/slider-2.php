@@ -139,7 +139,8 @@
             </div>
 
         </div>
-        <footer>Fuente: <a href="http://www.menucool.com/javascript-image-slider" class="enlacepie">Dirección URL de la
+        <footer>Fuente: <a href="https://www.menucool.com/slider/javascript-image-slider-demo4"
+                class="enlacepie">Dirección URL de la
                 web donde esté el Script</a></footer>
     </main>
     <script>
